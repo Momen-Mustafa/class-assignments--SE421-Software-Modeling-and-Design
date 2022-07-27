@@ -1,0 +1,21 @@
+Work in a group of two to refactor the code that you submitted for Assignment 1.
+
+Here are your tasks:
+
+1- Get the code of your assignment 1 submission.
+
+2- Add 'undo' feature to one of your classes - i.e. a user can revert back an object to an older state.
+
+3- Refactor the code to incorporate the following design patterns:
+
+A) Dependency Injection (this can be with or without Google Guice),
+
+B) Observer,
+
+C) Domain Specific Language,
+
+D) Facade.
+
+Note:
+
+- In your project, add code comments to highlight where the design patterns are implemented.

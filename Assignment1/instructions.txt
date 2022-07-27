@@ -1,0 +1,23 @@
+For this assignment, you need to work in a group of two to answer the following:
+
+Assuming you are working on a software development project to computerize AUIS' library systems. Here are the system requirements:
+
+1) AUIS library contains a wide range of academic resources, including books, ebooks, academic journals, and dissertations. A student, staff member, faculty may borrow these resources as necessary.
+
+2) Each borrower can be lent up to five items. Each item type of library can be lent for a different period of time according to the item type and borrower. The following table shows the policy:
+2. a) Faculties and Staff can borrow any academic resource for up to 2 months.
+2. b) Students can borrow a book for up to 1 month, a ebook for up to 2 months, an academic journal for up to 2 weeks.
+2. c) If an item is returned after the due date, AUIS places a fine based on the type of item (book $1/day, ebook $1/every two days, and journal $2/day).
+2. d) The borrower can renew any borrowed item, once and only once.
+
+3) Each faculty, staff member, or student has a unique ID, first name, last name, and the date in which she/he joined AUIS. A faculty and a staff member also belong to a department/office.
+
+For this assignment, do the following:
+
+a) Design your system components by creating CRC cards for the project, and providing a UML class diagram for the project.
+Your design must have multiple classes and at least one interface. Apply the Get/Set design pattern.
+
+b) Implement the system. The system should provide a terminal interface to allow a librarian to
+- Register a new student/staff/faculty to the system.
+- Print the items borrowed by a certain student/staff/faculty.
+- Check-in and Check-out academic resources for any student/staff/faculty. During the checkout process, print the fines issued for a lend.
